@@ -28,7 +28,7 @@ int main(int argc, const char *argv[])
     robot.drive(-vel, 0, 0);
     roblot.drive(0, -vel, 0);
     */
-    sleepfor(10);
+    sleepfor(1);
     // *** End student code *** //
    
     // Stop the robot.
